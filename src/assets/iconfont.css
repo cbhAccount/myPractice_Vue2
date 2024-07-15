@@ -1,0 +1,25 @@
+[class^="el-icon-"], [class*="el-icon-"] {
+  font-family: "iconfont" !important;
+  font-size: 1rem;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.el-icon-genghuantouxiang:before {
+  content: "\e601";
+}
+.el-icon-xiugaimima:before {
+  content: "\e609";
+}
+
+.el-icon-gerenzhongxin:before {
+  content: "\e628";
+}
+
+.el-icon-tuichudenglu:before {
+  content: "\e600";
+}
+
+
+/* el-icon-ali 需要替换成创建项目时候的FontClass前缀。
+ iconfont 需要替换成创建项目时候的 Font Family */
